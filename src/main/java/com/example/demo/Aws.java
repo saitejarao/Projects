@@ -9,6 +9,6 @@ public class Aws {
 @ResponseBody
 @RequestMapping("/app")	
 public String app() {
-		return "Welcome to spring boot application" ;	
+		return "Welcome to spring boot application using jenkins" ;	
 }
 }
